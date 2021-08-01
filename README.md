@@ -8,5 +8,4 @@ ___
 
 ![Tigerpanzer02's trophy](https://github-profile-trophy.vercel.app/?username=Tigerpanzer02&theme=alduin&row=1&column=8)
 ___
-- 🔭 I’m currently working on Plugily Projects. I am the manager with Marlene on that Project. We are providing a lot of minecraft minigame plugins.
-- ❤️ I am in Love with Marlene ;)
+- 🔭 I’m currently working on Plugily Projects. I am the manager of it. We are providing a lot of minecraft minigame plugins.
